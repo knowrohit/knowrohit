@@ -1,9 +1,9 @@
-## Hi, I'm Rohit 👾 👨🏽‍💻 
+## Hi, I'm Rohit  
 
 
 I'm a machine learning engineer who is deeply interested in tinkering with neural networks, building recommendation systems, and gathering best practices of machine learning in production. I write often about theoretical deep learning and applied MLOps and will soon launch a medium blog. 
 
-🔭 tensorflow and cars are the only things i love.
+🔭 pytorch and cars are the only things i love.
 
 🥷🏻 Creating order out of chaos using binary cross-entropy loss function.
 
