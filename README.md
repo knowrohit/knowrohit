@@ -5,9 +5,8 @@ I'm a machine learning engineer who is deeply interested in tinkering with neura
 
 🔭 pytorch and cars are the only things i love.
 
-🥷🏻 Creating order out of chaos using binary cross-entropy loss function.
+🥷🏻 i love building stealthy LLM assistants, will soon launch uncensored clean datasets on Hugging face
 
 🚀 I’m looking to evangelize the Full Stack Deep Learning community.
 
-🤔 I’m looking for like-minded machine learning enthusiasts to work with.
 
