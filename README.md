@@ -5,7 +5,7 @@ I'm a machine learning engineer who is deeply interested in tinkering with neura
 
 pytorch and cars are the only things i love.
 
-i love building stealthy LLM assistants, will soon launch uncensored clean datasets on Hugging face
+i love building stealthy LLM assistants, here's my HF: https://huggingface.co/knowrohit07
 
 
 
