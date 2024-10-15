@@ -7,5 +7,5 @@ pytorch and cars are the only things i love.
 i love building stealthy LLM assistants, here's my HF: https://huggingface.co/knowrohit07
 
 
-
+these are my old projects, dont judge :) 
 
