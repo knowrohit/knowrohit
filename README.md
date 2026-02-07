@@ -3,7 +3,7 @@ Building the world's fastest retrieval and inference engines.
 
 ---
 
-![WhatsApp Image 2026-01-19 at 00.57.55](https://cdn-uploads.huggingface.co/production/uploads/6458b122c16ecb4815dd3ad7/35rRgm9h1S684PxypuomO.jpeg)
+![compressed_srswti](https://cdn-uploads.huggingface.co/production/uploads/6458b122c16ecb4815dd3ad7/Mp9h9mlflQBwhw25u1XoF.png)
 
 ## Bodega's Own
 **Exclusive models trained/optimized for Bodega Inference Engine**
