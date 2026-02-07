@@ -1,15 +1,3 @@
----
-title: SRSWTI Inc.
-emoji: 🌸
-colorFrom: pink
-colorTo: pink
-sdk: static
-pinned: true
-short_description: Building the world's fastest retrieval and inference engines
-thumbnail: >-
-  https://cdn-uploads.huggingface.co/production/uploads/6458b122c16ecb4815dd3ad7/Xdgp7tFytf1Lhlgq0wrJb.jpeg
-
----
 # SRSWTI Inc.
 Building the world's fastest retrieval and inference engines.
 ---
